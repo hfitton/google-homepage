@@ -1,3 +1,5 @@
 # google-homepage
 Odin Project
-stuff I don't understand
+Help me!  
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
+My first foray into doing this for real, rewriting the google homepage. 
