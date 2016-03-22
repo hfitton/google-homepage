@@ -1,0 +1,16 @@
+.header {
+position:absolute;
+right:0px;}
+
+.google {
+   text-align: center;
+}
+div.box {
+  text-align:center;
+  margin-top:-125px;}
+div.box input {
+  width:400px;}
+div.submit {
+  text-align: center;
+  margin-top: 10px;
+  }
