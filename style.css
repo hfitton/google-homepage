@@ -1,25 +1,16 @@
-.header li {
-  display: inline-block;
-  padding: 3px;
-}
-
-.header ul {
-  position: fixed;
-  text-align: right;
-  margin-top: 0px;
-  width: 90%;
-}
-
-ul a {
-  text-decoration: none;
-}
+td {padding:2px;}
 
 a:hover {
   color: red;
   text-decoration: underline;
 }
 
-.google {
+a {font-family:Arial;
+color:black;
+text-decoration:none
+}
+
+.google {clear:right;
   text-align: center;
 }
 
