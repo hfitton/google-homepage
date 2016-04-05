@@ -1,16 +1,62 @@
-.header {
-position:absolute;
-right:0px;}
+.header li {
+  display: inline-block;
+  padding: 3px;
+}
+
+.header ul {
+  position: fixed;
+  text-align: right;
+  margin-top: 0px;
+  width: 90%;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
 
 .google {
-   text-align: center;
-}
-div.box {
-  text-align:center;
-  margin-top:-125px;}
-div.box input {
-  width:400px;}
-div.submit {
   text-align: center;
-  margin-top: 10px;
-  }
+}
+
+div.box {
+  text-align: center;
+  margin-top: -120px;
+}
+
+#searchbox {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 10px
+}
+
+p {
+  text-align: center
+}
+
+.footer li {
+  display: inline-block;
+  padding: 5px;
+  font-family: Arial;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #efefef;
+  padding: 3px;
+}
+
+#right {
+  float: right;
+}
+
+#left {
+  float: left;
+}
